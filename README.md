@@ -16,10 +16,6 @@ Como usar
     Escolha as opções do menu para visualizar as últimas notícias, adicionar/remover sites ou fechar o programa.
     Na tela de visualização de notícias, use os comandos disponíveis para navegar entre as páginas, abrir notícias no navegador, etc.
 
-Requisitos
-
-    Python 3.x
-    Bibliotecas Python: (consulte o arquivo requirements.txt para a lista completa)
 
 Contribuição
 
@@ -27,11 +23,9 @@ Se você quiser contribuir para o MocelinNews, fique à vontade para abrir uma s
 Aviso Legal
 
 Este programa foi desenvolvido apenas para fins educacionais e não deve ser usado para violar os termos de serviço ou as políticas dos sites de notícias. Utilize-o com responsabilidade e respeite os direitos autorais e as diretrizes de uso dos sites de notícias.
-Autor
 
-Seu Nome
-Licença
 
-Este projeto está licenciado sob a Licença MIT.
+Dheime Mocelin
+
 
 Sinta-se à vontade para personalizar e ajustar a descrição de acordo com suas necessidades específicas.
