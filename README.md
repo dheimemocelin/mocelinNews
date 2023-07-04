@@ -16,10 +16,6 @@ Como usar
     Escolha as opções do menu para visualizar as últimas notícias, adicionar/remover sites ou fechar o programa.
     Na tela de visualização de notícias, use os comandos disponíveis para navegar entre as páginas, abrir notícias no navegador, etc.
 
-Requisitos
-
-    Python 3.x
-    Bibliotecas Python: (consulte o arquivo requirements.txt para a lista completa)
 
 Contribuição
 
