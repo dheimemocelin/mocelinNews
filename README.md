@@ -1,7 +1,7 @@
 ## MocelinNews - Web Scraping de Notícias Automatizado ##
 
 O MocelinNews é um programa de web scraping desenvolvido em Python que coleta notícias e links dos principais sites de notícias. Ele oferece uma maneira conveniente de obter as últimas notícias de fontes confiáveis de forma automática e atualizada.
-Recursos
+
 
     Coleta automaticamente notícias e links dos principais sites de notícias.
     Atualiza as notícias em tempo real por meio de web scraping assíncrono.
